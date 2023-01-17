@@ -1,9 +1,12 @@
-import Topbar from "./topbar/topbar";
+import Topbar from "./topbar/TopBar";
 
 
 function App() {
   return (
+    <>
     <Topbar />
+    
+    </>
   );
 }
 
